@@ -7,9 +7,9 @@ import asyncio
 
 @asyncio.coroutine
 def hello():
-    print('Hello World!')
+    print("Hello World!")
     r = yield from asyncio.sleep(1)
-    print('Hello again!')
+    print("Hello again!")
 
 
 loop = asyncio.get_event_loop()
