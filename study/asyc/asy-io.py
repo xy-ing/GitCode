@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+# _*_coding:utf-8_*_
+
+
+import asyncio
+
+
+@asyncio.coroutine
+def hello():
+    print('Hello World!')
+    r = yield from asyncio.sleep(1)
+    print('Hello again!')
+
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(hello())
+loop.close()

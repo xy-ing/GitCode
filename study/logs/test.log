@@ -1,0 +1,10 @@
+2020-06-05 09:31:01 log-basic-con.py [line:13] DEBUG debug message
+2020-06-05 09:31:01 log-basic-con.py [line:14] INFO info message
+2020-06-05 09:31:01 log-basic-con.py [line:15] WARNING warning message
+2020-06-05 09:31:01 log-basic-con.py [line:16] ERROR error message
+2020-06-05 09:31:01 log-basic-con.py [line:17] CRITICAL critical message
+2020-06-05 09:58:32 log-basic-con.py [line:13] DEBUG debug message
+2020-06-05 09:58:32 log-basic-con.py [line:14] INFO info message
+2020-06-05 09:58:32 log-basic-con.py [line:15] WARNING warning message
+2020-06-05 09:58:32 log-basic-con.py [line:16] ERROR error message
+2020-06-05 09:58:32 log-basic-con.py [line:17] CRITICAL critical message

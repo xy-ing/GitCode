@@ -1,0 +1,3 @@
+2020-06-05 10:05:12,444 - root - WARNING - logger warning message
+2020-06-05 10:05:12,446 - root - ERROR - logger error message
+2020-06-05 10:05:12,448 - root - CRITICAL - logger critical message
